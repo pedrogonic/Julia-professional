@@ -1,56 +1,37 @@
 {
   "main": {
-    "name":"Tim Baker",
-    "occupation":"(Your Occupation Here)",
+    "name":"Julia Menezes",
+    "header":"Olá, sou Julia Menezes",
+    "occupation":"nutricionista",
     "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio":"Sou nutricionista e amo trabalhar com pessoas que decidiram transformar suas vidas através da alimentação saudável, com escolhas simples e de forma descomplicada. Minha linha de trabalho envolve  a alimentação equilibrada e flexível, sem restrições ou sacrifícios, respeitando a individualidade e a história de cada um. Se você se identificou comigo, entre em contato e vamos juntos iniciar essa jornada.",
+    "professional":"Sou formada pela Universidade do Estado do Rio de Janeiro (UERJ), especialista em Nutrição Clínica (UFRJ) e pós-graduada em nutrição funcional e ortomolecular (Nutmed/Redentor). Atualmente, atuo atendendo como personal diet nas zonas Sul e Norte do Rio de Janeiro, na clínica Espaço Vigné e no ambulatório de oncologia de um grande hospital federal. Possuo experiência em emagrecimento, hipertrofia e doenças como câncer e doença renal crônica, além de cirurgias.",
+    "target": "Adultos, idosos, adolescentes, praticantes de atividade física. Tratamento nutricional de doenças, como diabetes, hipertensão arterial, hipertrigliceridémia, hipercolesterolemia, constipação crónica, refluxo gastroesofágico, esofagite, gastrite, úlcera péptida, pancreatite, litíase, insuficiência cardíaca / renal / hepática, diverticulite, colite ulcerativa, doença de Crohn, doença celíaca, osteoporose, \"gota\" ou outras. Indivíduos que irão fazer ou terão feito uma cirurgia recentemente. Indivíduos com gastrostomia, ileostomia, jejunostomia. Todos os que buscam melhoria na qualidade de vida!",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "email": "julia.gmenezes@gmail.com",
+    "phone": "(21) 98272-2044",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "clinic": "Espaço Vigné",
+      "street":"Rua Voluntários da Patria 190 - Sala 1216",
+      "city":"Rio de Janeiro",
+      "state":"RJ",
+      "zip": "",
+      "phone1": "(21) 3807-2594",
+      "phone2": "(21) 99907-0594"
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload":"http://timbakerdev.com",
     "social":[
       {
-        "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
-        "className":"fa fa-facebook"
-      },
-      {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
-        "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
-        "className":"fa fa-google-plus"
-      },
-      {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/julia-menezes-7869574b/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"https://www.instagram.com/nutrijuliamenezes/",
         "className":"fa fa-instagram"
-      },
-      {
-        "name":"github",
-        "url":"http://github.com/tbakerx",
-        "className":"fa fa-github"
-      },
-      {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
       }
     ]
   },
